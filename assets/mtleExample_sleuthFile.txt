@@ -1,0 +1,881 @@
+// Reference=MNI
+// Alvim M K, 2016: Gray Matter Atrophy, Healthy Controls<TLE-HS Patients
+// Subjects=17
+-36	-78	-39
+-42	19.5	-33
+-30	-15	-18
+-40.5	18	-1.5
+0	19.5	7.5
+-7.5	-37.5	-28.5
+-27	-72	37.5
+-34.5	-25.5	58.5
+3	52.5	-6
+7.5	18	6
+
+// Beheshti I, 2018: Gray Matter Alterations, Healthy Controls>LTLE-HS
+// Subjects=25
+-27	-16	-18
+
+// Coan A C, 2014: Gray Matter Atrophy, MTLE-HS Patients>Healthy Controls
+// Subjects=16
+-27	-21	-11
+-8	-36	3
+-15	-27	1
+-24	-28	66
+-38	5	-32
+-35	9	-24
+-24	-93	15
+-27	-88	27
+-27	-72	40
+36	-19	52
+-8	-73	30
+2	-85	7
+-5	15	6
+
+// Coan A C, 2014: Gray Matter Atrophy, MTLE-NL Patients>Healthy Controls
+// Subjects=16
+-14	65	-15
+44	-12	30
+-27	-30	51
+3	-93	1
+15	-22	3
+-5	-13	9
+3	-27	7
+-5	62	7
+29	-87	12
+
+// Coan A C, 2014: Gray Matter Atrophy, MTLE-HS Patients with Frequent 
+// Seizures>Healthy Controls
+// Subjects=16
+-30	-15	-17
+-5	-16	6
+-36	12	-23
+-36	5	-33
+20	-43	60
+0	50	18
+-24	27	49
+-6	17	7
+-47	45	0
+51	-27	46
+39	-19	54
+-33	48	6
+-21	-42	63
+-48	-13	42
+12	-5	49
+
+// Coan A C, 2014: Gray Matter Atrophy, MTLE-HS Patients with Infrequent 
+// Seizures>Healthy Controls
+// Subjects=16
+-26	-22	-11
+-3	-15	9
+-8	17	7
+-21	-75	-44
+32	-25	64
+23	-25	-6
+12	25	-9
+
+// Coan A C, 2014: Gray Matter Atrophy, MTLE-NL Patients with Frequent 
+// Seizures>Healthy Controls
+// Subjects=16
+33	-27	64
+-36	-18	67
+2	-25	10
+-21	62	-2
+41	-19	48
+-33	-84	42
+-41	5	-30
+-23	-27	64
+
+// Coan A C, 2014: Gray matter atrophy, MTLE-HS with poor seizure control, 
+// Patients> HCs
+// Subjects=16
+-30	-15	-17
+-5	-16	6
+-36	12	-23
+-36	5	-33
+20	-43	60
+0	50	18
+-24	27	49
+-6	17	7
+-47	45	0
+51	-27	46
+39	-19	54
+-33	48	6
+-21	-42	63
+-48	-13	42
+12	-5	49
+
+// Coan A C, 2014: Gray matter atrophy, MTLE-HS with good seizure control, 
+// Patients> HCs
+// Subjects=16
+-26	-22	-11
+-3	-15	9
+-8	-15	9
+-21	-75	-44
+32	-25	64
+23	-25	-6
+12	25	-9
+
+// Coan A C, 2014: Gray matter atrophy, MTLE-NL with poor seizure control, 
+// Patients> HCs
+// Subjects=16
+33	-27	64
+-36	-18	67
+2	-25	10
+-21	62	-2
+41	-19	48
+-33	-84	42
+-41	5	-30
+-23	-27	64
+
+// Doucet G E, 2016: Gray Matter Volume, Healthy Controls>LTLE Patients
+// Subjects=50
+-15	-12	75
+-32	-13	-20
+-17	-36	-2
+-18	-25	-6
+-30	-31	-2
+
+// Doucet G E, 2016: Gray Matter Volume, Healthy Controls> LmTLE Patients
+// Subjects=26
+-30	-15	-18
+-18	-39	-2
+-29	-31	-3
+-18	-25	-6
+
+// Doucet G E, 2016: Gray Matter Volume, Healthy Controls>LnTLE Patients
+// Subjects=25
+-44	-64	-54
+
+// Fujisao E K, 2021: left hippocampal atrophy mTLE vs control
+// Subjects=22
+-30.51	-16.68	-24.83
+-17.43	15.97	-9.23
+-29.45	-5.94	-24.79
+
+// Holmes MJ, 2012: Gray Matter Concentration, Left TLE Patients<Healthy 
+// Controls
+// Subjects=15
+14	-20	8
+-15	-21	2
+23	-30	60
+6	-14	42
+-7	-55	37
+-24	-36	59
+64	10	18
+
+// Jber M, 2021: Structural Shrinkage C>L
+// Subjects=19
+-38	14	-38
+-29	-21	-15
+-29	-21	-15
+-38	-11	54
+
+// Jber M, 2021: Cluster-based cortical thinning L and C
+// Subjects=19
+-38.1	17.9	48.5
+-46.5	-37	39.3
+-17.1	-71.4	15.7
+22	27.3	38.9
+33.6	10.4	32.9
+16.3	-86.8	37.1
+
+// Kim J S, 2016: Gray Matter Volume (GMV): Healthy Controls > Left Mesial 
+// Temporal Lobe Epilepsy (LMTLE)
+// Subjects=30
+-27	-30	-6
+-24	-32	-8
+-9	-15	11
+11	-15	11
+27	9	-5
+
+// Lu J, 2013: Gray Matter Asymmetry: Left-sided MTLE/HS > Healthy Controls
+// Subjects=13
+57	2	-36
+60	-12	-14
+29	-14	-23
+30	9	-29
+
+// Lu J, 2013: White Matter Asymmetry: Left-sided MTLE/HS > Healthy Controls
+// Subjects=13
+20	-36	8
+
+// Roggenhofer E, 2019: Comparison between grey matter volume in lTLE C>left P
+// Subjects=72
+-3	-11	8
+-17	-6	72
+-48	-14	-32
+-56	-38	-8
+-23	-23	-17
+18	-17	9
+-29	48	12
+0	-57	57
+24	-42	69
+-48	-33	39
+-30	-6	48
+
+// Santana M T, 2014: Gray Matter Volume: Left Temporal Lobe Epilepsy (LTLE) < 
+// Healthy Controls
+// Subjects=66
+-13	68	8
+-11	-26	11
+2	-17	0
+-44	-16	40
+-63	-18	-22
+-39	-53	-35
+33	-67	-33
+-51	-64	13
+-55	-55	36
+-3	-68	31
+-6	-89	2
+7	-85	6
+-5	-88	5
+42	-81	-3
+
+// Scanlon C, 2013: Gray Matter Volume: TLE-mts < Healthy Controls
+// Subjects=22
+45	-12	6
+
+// Wei W, 2016: Gray Matter Volume (GMV): mTLE with Hippocampal Lesions 
+// (mTLE-HS) < Healthy Controls
+// Subjects=30
+-24	55	5
+21	57	19
+-27	40	43
+32	58	25
+2	-36	32
+-20	-28	3
+21	-22	9
+-27	-69	-15
+26	-61	-15
+34	28	-3
+54	6	-16
+
+// Wei W, 2016: GMV: mTLE with Other Lesions (mTLE-OL) < Healthy Controls
+// Subjects=30
+-9	-9	16
+-37	-78	-40
+28	-67	-43
+-4	-66	43
+
+// Bernasconi N, 2004: Healthy Controls > Left-Sided TLE Patients, Gray Matter 
+// Concentration (Unmodulated)
+// Subjects=45
+-33	-16	-18
+21	-12	-24
+-23	-19	-10
+-23	-39	0
+22	-37	1
+-61	-6	5
+-60	9	-8
+-2	30	27
+4	40	21
+6	-14	30
+-37	3	9
+-15	12	67
+-15	33	56
+22	8	67
+25	4	65
+-5	8	51
+-3	-12	51
+-2	42	33
+-5	67	-6
+-53	29	23
+-11	24	-23
+13	18	-22
+4	-28	51
+6	-70	13
+-42	-8.4	12
+10	-2	11
+
+// Bernasconi N, 2004: Healthy Controls > Left-Sided TLE Patients, White 
+// Matter Concentration (Unmodulated)
+// Subjects=45
+-38	13	-32
+-27	-18	-28
+-24	-27	-19
+1	27	8
+
+// Bonilha L, 2004: Normals > LMTL Epilepsy, Gray Matter
+// Subjects=22
+53	-69	-35
+-15	-84	-41
+-26	-39	3
+-59	32	11
+-14	-8	47
+-42	3	-5
+47	-69	41
+-15	-11	20
+-32	-15	-18
+-20	-36	11
+-48	-65	30
+-56	38	3
+-3	5	11
+18	11	17
+0	-19	-14
+9	-15	17
+17	-41	54
+12	-68	3
+-24	41	32
+32	27	-18
+
+// Bouilleret V, 2008: Left Temporal Lobe Epilepsy Patients < Healthy 
+// Controls, Gray Matter Volume
+// Subjects=12
+-63	-15	-6
+-60	-4	-27
+-27	-36	2
+-28	-10	60
+-30	-50	64
+-10	12	4
+-4	-9	2
+-8	3	4
+16	6	12
+21	-22	74
+-9	10	72
+70	-38	-15
+
+// Bouilleret V, 2008: Left Temporal Lobe Epilepsy Patients < Healthy 
+// Controls, White Matter Volume
+// Subjects=12
+-36	-15	-6
+-50	-20	-26
+-24	-32	-8
+10	40	-3
+36	-16	-4
+-10	-32	14
+-39	-56	22
+-6	-40	32
+-6	14	34
+
+// Keller S S, 2002: Healthy Controls > Left TLE Patients, Gray Matter 
+// Concentration (Unmodulated)
+// Subjects=58
+-30.24	-15.75	-20.55
+15.17	65.48	23.64
+-52.97	-65.79	42.49
+-48.04	33.76	25.39
+-26.92	-55.44	62.2
+48.1	-57.11	55.04
+7.25	-6.55	57.35
+18.38	-14.96	4.65
+33.21	-43.67	68.76
+40.4	-77.21	32.28
+-42.85	48.93	20.89
+-12.72	-10.75	6.67
+-41.17	-32.96	50.81
+-43.09	-76.2	-23.54
+
+// McMillan A B, 2004: Normals > LTLE Patients, Gray Matter Volume
+// Subjects=13
+-33	-3	-34
+-12	-35	9
+-22	-32	-20
+27	50	-3
+-28	52	-1
+-29	55	-2
+-22	-27	-21
+
+// McMillan A B, 2004: Normals > LTLE Patients, White Matter Volume
+// Subjects=13
+-9	-25	9
+9	-14	5
+-3	-24	17
+46	-48	-61
+
+// Pail M, 2010: Hippocampal and Extrahippocampal GMV reduction in left sided 
+// MTLE/HS patients vs Healthy controls
+// Subjects=20
+-27	-18	-17
+
+// Pell G S, 2008: Healthy Controls > Left TLE/HS Patients, Gray Matter Volume 
+// (Modulated)
+// Subjects=19
+-33	-18	-20
+-12	-27	8
+-10	17	1
+-35	26	3
+-23	6	-13
+-24	-4	-20
+-54	10	-14
+11	-12	15
+-48	19	3
+-41	49	0
+37	26	-3
+42	55	-6
+-36	-6	-3
+19	53	40
+-39	14	-36
+-3	-3	-10
+14	20	3
+7	-16	4
+
+// Pell G S, 2008: Healthy Controls > Left TLE/HS Patients, White Matter 
+// Volume (Modulated)
+// Subjects=19
+-42	3	-26
+-25	47	-4
+-6	34	10
+-18	59	9
+-43	-53	-11
+-45	33	8
+-23	30	27
+31	48	-1
+21	50	19
+2	-3	18
+47	0	32
+-38	-21	41
+-51	-14	31
+-54	-11	-19
+-15	43	39
+16	41	-5
+-29	39	13
+-4	-31	20
+-32	-20	0
+13	28	23
+18	50	28
+
+// Riederer F, 2008: Normals > Left-sided mTLE , GM Volume
+// Subjects=12
+-35	-35	-4
+-33	-19	-18
+-25	-15	-24
+-40	-24	2
+-54	-63	-29
+-7	53	-7
+-24	-5	50
+5	-8	32
+7	-14	40
+-8	-25	9
+
+// Santana M, 2010: Healthy Controls > Left Temporal Lobe Epilepsy, Gray 
+// Matter Volume Reduction
+// Subjects=30
+-13	67	1
+-45	35	-10
+45	34	-7
+-60	-9	28
+53	-10	36
+-6	-17	13
+3	-17	4
+-56	-52	33
+-49	-68	10
+-3	-67	33
+-42	-84	-5
+42	-82	-3
+10	-90	0
+-5	-88	5
+-31	-61	-35
+33	-62	-35
+
+// Santana M, 2010: Healthy Controls > Left Temporal Lobe Epilepsy, Febrile 
+// Seizures, Gray Matter Volume Reduction
+// Subjects=30
+-35	-22	-16
+-5	-12	15
+-58	-6	32
+-55	-59	-7
+-41	-85	-6
+29	-61	-35
+
+// Santana M, 2010: Healthy Controls > Left Temporal Lobe Epilepsy, Status 
+// Epilepticus, Gray Matter Volume Reduction
+// Subjects=30
+-36	-21	-16
+-49	-13	39
+-52	2	-37
+-12	-30	3
+-46	-32	43
+-39	-84	-7
+-39	-56	-42
+35	-61	-39
+-53	-60	-9
+-14	67	3
+-13	-54	2
+-28	-64	49
+
+// Santana M, 2010: Healthy Controls > Left Temporal Lobe Epilepsy, Anterior 
+// Mesio-Lateral Auras, Gray Matter Volume Red
+// Subjects=30
+-34	-16	-19
+-57	-6	31
+53	-9	33
+-46	-35	21
+-35	56	2
+-11	67	0
+44	33	-7
+-57	2	-27
+3	-17	7
+-3	-17	8
+-55	-53	36
+-54	-61	-8
+-27	-56	-10
+-37	-57	-45
+29	-64	-36
+
+// Santana M, 2010: Healthy Controls > Left Temporal Lobe Epilepsy, Mesial 
+// Auras, Gray Matter Volume Reduction
+// Subjects=30
+-61	-8	31
+-39	-88	-3
+-29	-62	-35
+32	-64	-34
+
+// Tae W S, 2010: mTLE-left < Controls-left, Gray Matter Concentration
+// Subjects=16
+0	26	52
+1	-11	48
+-11	-29	62
+18	-21	62
+-69	-32	39
+-2	-17	9
+1	-18	8
+-31	-12	-17
+-71	-43	17
+-48	-58	-58
+50	-60	-52
+
+// Tae W S, 2010: mTLE-left < Controls-left, Gray Matter Volume
+// Subjects=16
+0	60	5
+0	8	51
+-13	11	14
+10	14	8
+-19	-27	0
+-33	-17	-16
+40	-19	-18
+-30	14	10
+-73	-28	-7
+-71	-45	19
+-14	-69	55
+11	-68	58
+-15	-95	11
+-1	-28	-25
+-22	-80	-30
+24	-80	-30
+55	-65	-45
+
+// Tae W S, 2010: mTLE-left < Controls-left, White Matter Concentration
+// Subjects=16
+-42	4	-31
+31	0	-30
+-24	-23	-15
+24	-19	-15
+-8	5	4
+-15	15	-9
+8	4	7
+16	19	-8
+0	-4	33
+30	42	10
+51	-34	-4
+47	-5	-12
+
+// Tae W S, 2010: mTLE-left > Controls-left, White Matter Concentration
+// Subjects=16
+0	-17	-43
+17	-20	67
+-15	-28	63
+
+// Chen S, 2012: ALFF: TLE PDS > HC
+// Subjects=7
+39	24	-12
+-36	30	3
+12	18	3
+-9	6	9
+9	42	9
+
+// Chen S, 2012: ALFF: TLE not depressed > HC
+// Subjects=16
+15	42	12
+-39	33	3
+
+// Chen S, 2012: ALFF: TLE not depressed < HC
+// Subjects=16
+33	-21	3
+-15	-12	9
+12	-9	6
+
+// Ji G, 2013: ALFF: L-TLE > HC
+// Subjects=23
+42	-33	-24
+-51	-21	-42
+-33	6	-9
+39	-12	18
+-9	0	33
+6	36	63
+15	60	6
+-15	3	3
+0	-78	-51
+-39	-60	-39
+-21	-93	-30
+-3	-72	-54
+
+// Ji G, 2013: ALFF: L-TLE < HC
+// Subjects=23
+51	-48	51
+-45	-30	18
+24	-9	51
+
+// Mankinen K, 2011: ReHo: TLE<HC
+// Subjects=21
+2.43	52.96	-15.79
+
+// Mankinen K, 2011: ReHo: TLE>HC
+// Subjects=21
+2.89	41.21	38.72
+-39.23	0.48	-34.32
+-29.27	33.39	23.02
+
+// Nedic S, 2015: Autocorrelation (ACF) b map: L-TLE < HC
+// Subjects=19
+-36	2	-17
+13	23	42
+-27	-7	28
+-12	-10	-2
+-45	-37	43
+8	21	25
+36	-22	19
+30	-43	52
+15	-46	7
+-24	-34	70
+30	41	1
+12	-112	-2
+-30	-43	25
+30	2	58
+-54	-10	10
+3	-91	10
+
+// Singh T B, 2020: ALFF: TLE>HC
+// Subjects=14
+-27	36	-21
+-39	18	18
+-3	-18	-24
+36	9	9
+15	-3	-15
+-18	57	-12
+-51	-45	-24
+36	33	21
+3	39	-3
+-33	33	30
+24	42	21
+
+// Singh T B, 2020: ALFF: TLE<HC
+// Subjects=14
+3	-59	25
+-36	-90	9
+-6	-36	-6
+33	-84	-24
+-42	-21	-12
+-45	-60	57
+51	-51	18
+24	30	3
+
+// Wang J, 2020: fALFF: mTLE < HC
+// Subjects=26
+18	-63	-51
+-12	-54	-57
+-51	-60	33
+54	-60	36
+
+// Wang J, 2020: fALFF: mTLE > HC
+// Subjects=26
+27	-45	-30
+-51	-48	-27
+-6	-12	39
+-36	48	-12
+30	27	-18
+54	-15	0
+
+// Wang J, 2020: ReHo: mTLE < HC
+// Subjects=26
+-6	-15	36
+-6	-18	18
+9	-18	18
+51	-63	27
+-18	39	54
+-42	-72	42
+45	-27	24
+63	18	24
+6	-72	36
+-6	-45	51
+
+// Wang J, 2020: ReHo: mTLE > HC
+// Subjects=26
+-57	-45	-27
+54	-42	-27
+-54	-9	18
+-27	-21	-27
+24	-3	-21
+
+// Wang J, 2020: SUVR: mTLE < HC
+// Subjects=26
+36	9	-45
+33	-18	-18
+42	36	-21
+-24	9	-24
+-9	-27	12
+24	-60	24
+9	-39	57
+
+// Wang J, 2020: SUVR: mTLE > HC
+// Subjects=26
+-39	-78	-48
+33	-66	-30
+-15	-51	9
+-15	-87	6
+
+// Wei W, 2016: ALFF: mTLE-HS vs HC
+// Subjects=30
+-18	57	30
+21	39	48
+-24	42	36
+39	48	21
+0	-42	30
+-3	48	12
+-42	-51	54
+54	-51	42
+63	-45	-24
+
+// Zeng H, 2013: ReHo: mTLE > controls
+// Subjects=10
+-15	-36	-12
+-15	-15	-12
+-27	27	30
+-33	-33	18
+3	-30	18
+27	33	27
+-30	-33	42
+-20	-6	0
+27	-15	36
+42	-45	27
+-9	-18	66
+39	3	-36
+-33	-30	44
+30	-12	57
+27	-30	66
+-31	-14	46
+
+// Zeng H, 2013: ReHo: mTLE<controls
+// Subjects=10
+3	48	-9
+3	-72	36
+-51	-72	-6
+-3	-75	15
+36	-66	-24
+15	-100	6
+-3	-66	69
+48	-51	-54
+-39	-72	-39
+66	-45	-18
+
+// Zhang Z, 2020: ALFF: TLE < HC
+// Subjects=16
+42	45	-6
+
+// Zhang Z, 2010: ALFF: Left mTLE > HC
+// Subjects=24
+-18	-3	-21
+-33	-24	-24
+19	-3	-24
+33	-24	-27
+-9	-9	45
+9	-6	45
+-6	-3	3
+-3	9	0
+6	12	3
+-6	-24	-27
+-39	-33	66
+27	-45	66
+-6	18	48
+15	-6	63
+-48	12	-27
+51	12	-24
+
+// Zhang Z, 2010: ALFF: Left mTLE < HC
+// Subjects=24
+-6	-72	48
+6	48	27
+-36	36	39
+39	45	30
+-48	-66	33
+51	-57	21
+42	-66	-33
+-33	-75	-30
+
+// Zhang Z, 2015: ALFF: L mTLE vs HC
+// Subjects=26
+-33	-28	24
+33	-27	-24
+-60	-39	-6
+60	-39	-6
+-36	3	-12
+33	6	-12
+-16	-9	9
+9	-9	9
+0	-60	33
+-42	-66	30
+42	-69	30
+-57	-51	39
+51	-42	48
+-36	-18	48
+36	-18	42
+
+// Zhao B, 2020: ReHo: L-TLE > HC
+// Subjects=14
+-9	33	21
+-3	-48	36
+33	18	24
+-39	-6	-33
+48	-6	-36
+42	-9	36
+-21	-21	63
+-24	6	9
+
+// Zhao B, 2020: ReHo: L-TLE < HC
+// Subjects=14
+9	36	-12
+60	-39	39
+-30	-82	48
+-6	-96	21
+-45	-69	-15
+
+// Zhu X, 2018: ALFF: TLE +Depression > HC
+// Subjects=18
+30	-60	45
+
+// Zhu X, 2018: ALFF: TLE no depression > HC
+// Subjects=17
+63	-9	-3
+27	-48	12
+24	-42	-6
+
+// Zhu X, 2018: ALFF: TLE +Depression < HC
+// Subjects=18
+33	18	36
+
+// Zhu X, 2018: ALFF: TLE no depression < HC
+// Subjects=17
+-24	36	42
+-45	-60	-6
+15	42	42
+
+// Unknown Author, 2018: ReHo: TLE +Depression > HC
+// Subjects=18
+36	-12	60
+-36	24	51
+30	-18	54
+
+// Unknown Author, 2018: ReHo: TLE no depression > HC
+// Subjects=17
+-36	-39	12
+57	3	-15
+9	-39	57
+
+// Unknown Author, 2018: ReHo: TLE +Depression < HC
+// Subjects=18
+-36	24	51
+
+// Unknown Author, 2018: ReHo: TLE no depression < HC
+// Subjects=17
+33	-66	51
+

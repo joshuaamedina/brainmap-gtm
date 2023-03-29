@@ -1,0 +1,89 @@
+{
+  "checkpointable": false,
+  "name": "{{ app.name }}",
+  "executionSystem": "tacc.ls6.joshuaam",
+  "executionType": "HPC",
+  "deploymentPath": "{{ username }}/apps/{{ app.name }}-{{ app.version }}",
+  "deploymentSystem": "tacc.work.joshuaam",
+  "helpURI": "",
+  "label": "{{ app.label }}",
+  "shortDescription": "{{ app.description }}",
+  "longDescription": "",
+  "modules": [
+    "load tacc-singularity",
+    "load matlab/2022b"
+  ],
+  "ontology": [],
+  "parallelism": "SERIAL",
+  "tags": [],
+  "templatePath": "runner.sh",
+  "testPath": "tester.sh",
+  "version": "{{ app.version }}",
+  "defaultMaxRunTime": "00:30:00",
+  "inputs": [    {
+    "id": "input1",
+    "details": {
+      "label": "A Sleuth File"
+    },
+    "semantics": {}
+  }],
+  "parameters": [
+    {
+      "id": "CONTAINER_IMAGE",
+      "value": {
+        "default": "{{ docker.namespace }}/{{ docker.repo }}:{{ docker.tag }}",
+        "type": "string",
+        "visible": false,
+        "required": true,
+        "order": 1000
+      }
+    },
+    {
+      "id": "radius",
+      "value": {
+        "default": 6,
+        "type": "Number",
+        "visible": true, 
+        "required": true,
+        "order": 1000
+      },
+      "details": {
+        "label": "Radius",
+        "description": "Custom radius"
+      }
+    },
+    {
+      "id": "ale",
+      "value": {
+        "default": 75,
+        "type": "Number",
+        "visible": true, 
+        "required": true,
+        "order": 1000
+      },
+      "details": {
+        "label": "Ale Threshold",
+        "description": "Custom Ale Threshold"
+      }
+    },
+    {
+      "id": "filter",
+      "value": {
+        "default": "0",
+        "enumValues":[
+          {"0":"0"}, 
+          {"2":"1"}, 
+          {"3":"2"}],
+        "type": "enumeration",
+        "visible": true, 
+        "required": true,
+        "order": 1000
+      },
+      "details": {
+        "label": "Filter",
+        "description": "Select filter 0-2"
+      }
+    }
+  ],
+  "outputs": []
+}
